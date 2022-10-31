@@ -30,7 +30,7 @@ Blue Website allows the user to input SQL statements as it responds when you att
 
 Vulnerability #1: XSS
 
-Description: A stored XSS can be triggered when the opening the feedback.
+Description: A stored XSS can be triggered when the admin opens the feedback section.
 
 <img src="Kapture 2022-10-31 at 18.51.01.gif">
 
