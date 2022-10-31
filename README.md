@@ -23,7 +23,7 @@ Vulnerability #1: SQLI
 Description:
 Blue Website allows the user to input SQL statements as it responds when you attempt one.
 
-<img src="Kapture 2022-10-31 at 18.48.23.gif">
+<img src="Kapture 2022-10-31 at 19.10.48.gif">
 
 
 ## Green
