@@ -18,27 +18,28 @@ Each color is vulnerable to only 2 of the 6 possible exploits. First discover wh
 
 ## Blue
 
-Vulnerability #1: __________________
+Vulnerability #1: SQLI
 
 Description:
+Blue Website allows the user to input SQL statements as it responds when you attend one.
 
 <img src="Kapture 2022-10-31 at 18.48.23.gif">
 
 
 ## Green
 
-Vulnerability #1: __________________
+Vulnerability #1: XSS
 
-Description:
+Description: A stored XSS can be triggered when the opening the feedback.
 
 <img src="Kapture 2022-10-31 at 18.51.01.gif">
 
 
 ## Red
 
-Vulnerability #1: __________________
+Vulnerability #1: IDOR
 
-Description:
+Description: Red website does not protect the data enough since it uses id based on numbers. In comparison the Blue Website that even thought uses numbers as IDs it does not reveal users that are not a saleperson.
 
 <img src="Kapture 2022-10-31 at 17.40.20.gif">
 
