@@ -21,7 +21,7 @@ Each color is vulnerable to only 2 of the 6 possible exploits. First discover wh
 Vulnerability #1: SQLI
 
 Description:
-Blue Website allows the user to input SQL statements as it responds when you attend one.
+Blue Website allows the user to input SQL statements as it responds when you attempt one.
 
 <img src="Kapture 2022-10-31 at 18.48.23.gif">
 
