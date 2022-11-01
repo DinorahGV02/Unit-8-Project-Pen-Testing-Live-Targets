@@ -41,7 +41,7 @@ Vulnerability #1: IDOR
 
 Description: Red website does not protect the data enough since it uses id based on numbers and it reveals information that is not supposed to be seen on the public website.
 
-<img src="Kapture 2022-10-31 at 18.51.01.gif">
+<img src="Kapture 2022-10-31 at 20.26.27.gif">
 
 
 ## Notes
