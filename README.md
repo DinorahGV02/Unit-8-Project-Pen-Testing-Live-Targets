@@ -39,9 +39,9 @@ Description: A stored XSS can be triggered when the admin opens the feedback sec
 
 Vulnerability #1: IDOR
 
-Description: Red website does not protect the data enough since it uses id based on numbers. In comparison the Blue Website that even thought uses numbers as IDs it does not reveal users that are not a saleperson.
+Description: Red website does not protect the data enough since it uses id based on numbers and it reveals information that is not supposed to be seen on the public website.
 
-<img src="Kapture 2022-10-31 at 17.40.20.gif">
+<img src="Kapture 2022-10-31 at 18.51.01.gif">
 
 
 ## Notes
